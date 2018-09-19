@@ -1,10 +1,4 @@
 import java.util.Arrays;
-/**
- * Write a description of class Lab4 here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Lab4
 {
     public static void main(String[] args)
